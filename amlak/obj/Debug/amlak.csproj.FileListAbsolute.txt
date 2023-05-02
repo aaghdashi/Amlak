@@ -1,0 +1,5 @@
+C:\Users\arman\Desktop\amlak\amlak\bin\amlak.dll
+C:\Users\arman\Desktop\amlak\amlak\bin\amlak.pdb
+C:\Users\arman\Desktop\amlak\amlak\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arman\Desktop\amlak\amlak\obj\Debug\amlak.dll
+C:\Users\arman\Desktop\amlak\amlak\obj\Debug\amlak.pdb
